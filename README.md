@@ -1,6 +1,5 @@
 some important command
 
-Install Apache: ```
-sudo apt install apache2
-
+Install Apache: 
+```sudo apt install apache2
 ```
